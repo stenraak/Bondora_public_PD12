@@ -10,7 +10,11 @@ The "bondora_project.ipynb" contains the whole code used in this project. You ca
 
 I have added an EDA report as an HTML file that was I created using the "ydata_profiling" package.
 
-All the necessary packages are in the "requirements.txt" file
+All the necessary packages are in the "requirements.txt" file.
+
+"features.csv" contains all the relevant features that have been picked out from the 112 initial features from the Bondora dataset.
+
+And finally I have also added the project report and presentation into this repository.
 
 
 
