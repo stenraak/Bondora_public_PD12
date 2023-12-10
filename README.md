@@ -8,9 +8,9 @@ The initial Bondora dataset that I used cannot be uploaded here as it is too big
 
 The "bondora_project.ipynb" contains the whole code used in this project. You can run it from the start in order to see all the results. Make sure you install all relevant packages.
 
-I have added an EDA report as an HTML file that was I created using the "ydata_profiling" package.
-
 All the necessary packages are in the "requirements.txt" file.
+
+I have added an EDA report as an HTML file that was I created using the "ydata_profiling" package.
 
 "features.csv" contains all the relevant features that have been picked out from the 112 initial features from the Bondora dataset.
 
